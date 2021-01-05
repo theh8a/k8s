@@ -1,1 +1,1 @@
-FROM quay.io/k8scsi/csi-snapshotter:latest
+FROM quay.io/k8scsi/csi-snapshotter
